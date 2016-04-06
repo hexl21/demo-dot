@@ -17,5 +17,5 @@ var dotTemplate = doT.template(templateContent);
 listDiv.innerHTML = dotTemplate(data);
 ```
 
-[推荐文档](http://dotjs.cn)
-[推荐文档](http://www.fantxi.com/blog/archives/dot-template/)
+* 推荐文档][http://dotjs.cn](http://dotjs.cn)
+* 推荐文档][http://www.fantxi.com/blog/archives/dot-template/](http://www.fantxi.com/blog/archives/dot-template/)
